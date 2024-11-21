@@ -17,3 +17,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/CyanCream/mar4.0
+BugReports: https://github.com/CyanCream/mar4.0/issues
